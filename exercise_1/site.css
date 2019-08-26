@@ -1,0 +1,18 @@
+.card-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 5rem;
+}
+
+.card-row .card {
+    width: 18rem;
+}
+
+.card-row .card .btn {
+    width: 100% !important;
+}
+
+.nav-pagination {
+    margin-top: 5rem;
+}
