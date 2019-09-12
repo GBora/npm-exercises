@@ -1,0 +1,17 @@
+@import '_variables.scss';
+@import '../node_modules/tachyons/css/tachyons.css';
+
+body {
+    background: $blue;
+    color: $yellow;
+    font-family: 'Courgette', cursive;
+}
+
+h1 {
+    font-family: 'Tangerine', cursive;
+}
+
+.strofa p {
+    margin: 0;
+    padding: 0;
+}

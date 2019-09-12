@@ -63,3 +63,5 @@ typings/
 exercise_1/node_modules/
 exercise_2/node_modules/
 exercise_3/node_modules/
+
+exercise_3/dist/main.css
